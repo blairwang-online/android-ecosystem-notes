@@ -33,7 +33,7 @@ Notable apps:
 
 - ⭐️ Breezy Weather
 	- Just a very nice weather app, responsive and extensive similar to the stock Weather app on iOS
-	- https://github.com/ImranR98/Obtainium
+	- https://github.com/breezy-weather/breezy-weather
 
 - ⭐️ Doable
 	- Simple, responsive, 'Material You' todo list app
